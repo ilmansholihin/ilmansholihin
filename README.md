@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya ILMAN SHOLIHIN 👋</h1>
+<h1 align="center">Halo, saya ilmansholihin 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Suka+ngoding+dan+belajar+hal+baru;Open+Source+Enthusiast" alt="Typing SVG" />
@@ -13,10 +13,10 @@
 
 ## 👨‍💻 Tentang Saya
 
-- 🔭 Sedang mengerjakan **NAMA_PROYEK**
-- 🌱 Sedang belajar **TEKNOLOGI_YANG_DIPELAJARI**
-- 💬 Tanya saya tentang **TOPIK_KEAHLIAN**
-- 📫 Hubungi saya: **EMAIL_KAMU**
+- 🔭 Sedang mengerjakan **Web  Masjid**
+- 🌱 Sedang belajar **Artificial Intelligence**
+- 💬 Tanya saya tentang **WEB**
+- 📫 Hubungi saya: **ilmansholihin1@gmail.com**
 
 ---
 
