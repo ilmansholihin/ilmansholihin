@@ -1,4 +1,4 @@
-<h1 align="center">Halo, saya NAMA_KAMU 👋</h1>
+<h1 align="center">Halo, saya ILMAN SHOLIHIN 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Developer;Suka+ngoding+dan+belajar+hal+baru;Open+Source+Enthusiast" alt="Typing SVG" />
