@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile+views&color=0e75b6&style=flat" alt="views" />
-  <img src="https://img.shields.io/github/followers/USERNAME?style=flat&logo=github" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=ilmansholihin&label=Profile+views&color=0e75b6&style=flat" alt="views" />
+  <img src="https://img.shields.io/github/followers/ilmansholihin?style=flat&logo=github" alt="followers" />
 </p>
 
 ---
@@ -37,12 +37,12 @@
 ## 📊 Statistik GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ilmansholihin&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilmansholihin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilmansholihin&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -51,8 +51,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
-    <img alt="Animasi ular di grafik kontribusi GitHub" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ilmansholihin/ilmansholihin/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ilmansholihin/ilmansholihin/output/github-snake.svg" />
+    <img alt="Animasi ular di grafik kontribusi GitHub" src="https://raw.githubusercontent.com/ilmansholihin/ilmansholihin/output/github-snake.svg" />
   </picture>
 </p>
